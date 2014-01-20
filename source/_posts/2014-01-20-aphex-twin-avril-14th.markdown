@@ -10,7 +10,7 @@ categories: Song
   <iframe width="640" height="480" src="//www.youtube.com/embed/MBFXJw7n-fU" frameborder="0" allowfullscreen></iframe>
 </div>
 
-To truly appreciate this song, you really need to listen to it within the context of the [Drukqs album](http://grooveshark.com/#!/album/Drukqs/203084). This album has some of Aphex Twin's harshest music, and some of the first few tracks are especially grating. But when you make it through, it's such a relief to be treated with this beautiful piano solo.
+To truly appreciate this song, you really need to listen to it within the context of the [Drukqs album](http://grooveshark.com/#!/album/Drukqs/203084). This album has some of Aphex Twin's harshest music, and the first few tracks are especially grating. But when you make it through, it's such a relief to be treated with this beautiful piano solo.
 
 From [Reddit user BobbyDafro](http://www.reddit.com/r/Music/comments/11b0pq/aphex_twin_avril_14th/c6l1kf6):
 
