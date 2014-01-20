@@ -6,6 +6,9 @@ comments: true
 categories: Song
 ---
 
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/104940016&amp;color=ff6600&amp;auto_play=false&amp;show_artwork=true"></iframe>
+
+
 Tolga Gurpinar is a Turkish electronic music producer who releases his music under the name iLoyd. I discovered [iLoyd.com](http://iloyd.com/) when I first started making music, and found the great [VST instrument]((http://iloyd.com/ilosynth/index.php) that he wrote. Tolga is also graphic designer and photographer, and I remember being fascinated by his [photo galleries](http://iloyd.com/galleries.htm).
 
 <div class="centered" style="margin-bottom: 50px;">
@@ -22,7 +25,6 @@ I love this [review from Jeremy Robertsen](http://iloyd.com/interviews.htm):
 
 > 'Alive' is like opening an inflatable life raft between your headphones, then stepping out into the garden of Eden where everything is beautiful and a bit sassy.
 
-And that's what I like to imagine when I put on a pair of headphones, and listen to this.
+And that's what I like to imagine when I put on a pair of headphones and listen to this song.
 
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/104940016&amp;color=ff6600&amp;auto_play=false&amp;show_artwork=true"></iframe>
