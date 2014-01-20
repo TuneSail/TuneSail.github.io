@@ -10,7 +10,7 @@ categories: Song
 <iframe width="853" height="480" src="//www.youtube.com/embed/VA8hzUDXvtk" frameborder="0" allowfullscreen></iframe>
 </div>
 
-The first time I heard this song on the radio, I had to pull over and listen to it a second time on my mobile. You may have had a different experience during your childhood and high school years, but I can certainly relate to the lyrics. The music is fantastic too - It's written by Yann Tiersen, the composer behind the [Amélie](http://www.imdb.com/title/tt0211915/) soundtrack.
+The first time I heard this song on the radio, I pulled over so that I could find it on my mobile and listen to it a second time. You may have had a different experience during your childhood and high school years, but I can personally relate to these lyrics in a big way. The music is fantastic, too - It's written by Yann Tiersen, who is the composer behind the [Amélie](http://www.imdb.com/title/tt0211915/) soundtrack.
 
 Here's some background on the song, from [sagefrancis.net](http://www.sagefrancis.net/the-best-of-times-lyrics-behind-the-scenes-wordage):
 
