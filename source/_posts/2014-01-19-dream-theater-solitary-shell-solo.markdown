@@ -6,7 +6,7 @@ comments: true
 categories: Song Solos
 ---
 
-Dream Theater is a progressive metal band, and all of the band members are insanely talented. I love all their music, and I've even flown to a different country to see them in concert.
+Dream Theater is a progressive metal band, and all of the band members are insanely talented. I love all their music, and I've even flown to a different country to see them perform live.
 
 I really love the solos near the the end of "Solitary Shell", on the album "Six Degrees of Inner Turbulence". The guitar and piano playing is amazing, and I think the melodies are beautiful. Listen to the whole song if you like, but the video below starts at my favorite time.
 
