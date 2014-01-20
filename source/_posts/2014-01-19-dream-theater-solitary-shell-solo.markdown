@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Dream Theater - Solitary Shell Solo"
+title: "Dream Theater - Solitary Shell Solos"
 date: 2014-01-19 22:12
 comments: true
-categories: Song
+categories: Song Solos
 ---
 
 Dream Theater is a progressive metal band, and all of the band members are insanely talented. I love all their music, and I've even flown to a different country to see them in concert.
@@ -16,8 +16,4 @@ I really love the solos near the the end of "Solitary Shell", on the album "Six 
 
 <br/><br/>
 
-If you liked that, [Overture 1928](http://www.youtube.com/watch?v=hNKjuC2kSPs) is another awesome Dream Theater song.
-
-[Dance of Eternity](http://www.youtube.com/watch?v=ZhedP71N9gQ) is Dream Theater's most complex piece, with over 128 time signature changes.
-
-Finally, if you have 24 minutes to spare, [Octavarium](http://www.youtube.com/watch?v=ZVMIk3xYaYo) is Dream Theater's longest song, and is a great introduction to the band.
+[Overture 1928](http://www.youtube.com/watch?v=hNKjuC2kSPs) is another great Dream Theater song, if you want to listen to some more. [Dance of Eternity](http://www.youtube.com/watch?v=ZhedP71N9gQ) is Dream Theater's most complex piece, with over 128 time signature changes. Finally, if you have 24 minutes to spare, [Octavarium](http://www.youtube.com/watch?v=ZVMIk3xYaYo) is Dream Theater's longest song, and a great introduction to the band.
