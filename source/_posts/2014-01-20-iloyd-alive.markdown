@@ -21,10 +21,8 @@ I also loved reading his [Who is Iloyd?](http://iloyd.com/whoisiloyd.htm) page, 
 
 While I enjoy listening to all of iLoyd's music, [Alive](https://soundcloud.com/iloyd/sets/alive) is my favorite album, and this post is about the title track. I remember reading an interview where Tolga said that he worked on this track for 3 months, and strived to perfect the sound design and harmonization.
 
-I love this [review from Jeremy Robertsen](http://iloyd.com/interviews.htm):
+[A review from Jeremy Robertsen](http://iloyd.com/interviews.htm):
 
 > 'Alive' is like opening an inflatable life raft between your headphones, then stepping out into the garden of Eden where everything is beautiful and a bit sassy.
 
-And that's what I like to imagine when I put on a pair of headphones and listen to this song.
-
-
+That's what I like to imagine when I put on a pair of headphones and listen to this beautiful track.
