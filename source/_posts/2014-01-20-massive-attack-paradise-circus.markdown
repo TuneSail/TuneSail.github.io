@@ -10,4 +10,4 @@ categories: Song
   <iframe width="640" height="480" src="//www.youtube.com/embed/jEgX64n3T7g" frameborder="0" allowfullscreen></iframe>
 </div>
 
-An amazing song, and I really wish I could find more songs like it.
+An amazing song. I love the strings and the build-up towards the end. I only wish that I could find more songs like it.
