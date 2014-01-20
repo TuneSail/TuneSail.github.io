@@ -14,4 +14,4 @@ To truly appreciate this song, you really need to listen to it within the contex
 
 From [Reddit user BobbyDafro](http://www.reddit.com/r/Music/comments/11b0pq/aphex_twin_avril_14th/c6l1kf6):
 
-> When I was in Iraq (used to be in the Marines) we used to do the Aphex challenge, which was to get into your sleeping bag, put your head phones on, zip it up completey and listen to the whole album. It was intense.
+> When I was in Iraq (used to be in the Marines) we used to do the Aphex challenge, which was to get into your sleeping bag, put your head phones on, zip it up completely, and listen to the whole album. It was intense.
