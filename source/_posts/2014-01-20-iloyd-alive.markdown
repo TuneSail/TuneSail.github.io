@@ -19,7 +19,7 @@ Tolga Gurpinar is a Turkish electronic music producer who releases his music und
 
 I also loved reading his [Who is Iloyd?](http://iloyd.com/whoisiloyd.htm) page, where he describes his childhood in Turkey, and his first musical instruments.
 
-While I enjoy listening to all of iLoyd's music, [Alive](https://soundcloud.com/iloyd/sets/alive) is my favorite album, and this post is about the title track. I remember reading an interview where Tolga said that he worked on this track for 3 months, and wanted to perfect the sound design and harmonization.
+While I enjoy listening to all of iLoyd's music, [Alive](https://soundcloud.com/iloyd/sets/alive) is my favorite album, and this post is about the title track. I remember reading an interview where Tolga said that he worked on this track for 3 months, and strived to perfect the sound design and harmonization.
 
 I love this [review from Jeremy Robertsen](http://iloyd.com/interviews.htm):
 
