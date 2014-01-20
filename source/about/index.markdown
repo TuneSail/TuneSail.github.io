@@ -8,7 +8,7 @@ footer: true
 ---
 
 <p class='centered'>
-  Thanks for visiting TuneSail. This is a blog about songs that I really like, like this one:
+  This is a blog where I post about music that gave me chills, or really affected me.
 </p>
 
 <div class="video-container">
