@@ -1,0 +1,82 @@
+div.amazon-product {
+  margin: 37px auto;
+
+  width: 333px;
+  padding: 33px 0;
+  border: 1px solid #dfdfdf;
+  border-radius: 7px;
+
+  span.loading {
+    color: #999;
+    font-size: 17px;
+  }
+
+  #image img {
+    width: 100px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+  }
+
+  div#content {
+    width: auto;
+    overflow: auto;
+    p {
+      text-align: center;
+      margin-bottom: 4px;
+      display: none;
+    }
+
+    p#title, p#prices { display: block; }
+    p#prices {
+      color: #999;
+      font-size: 15px;
+      line-height: 22px;
+      float: left;
+      padding-left: 30px;
+      margin-top: 22px;
+    }
+
+    > form, > a {
+      margin-top: 32px;
+      float: right;
+      padding-right: 30px;
+    }
+  }
+
+  &.no-title div#content p#title { display: none; }
+}
+
+// ------------------------------
+
+@media screen and (max-width: 480px) {
+  div.amazon-product {
+    margin-top: 20px;
+    width: 274px;
+    div#content {
+      p#prices {
+        font-size: 13px;
+        padding-left: 20px;
+      }
+      > form, > a { padding-right: 20px; }
+    }
+  }
+}
+
+
+// Responsive youtube
+
+.video-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 30px; height: 0; overflow: hidden;
+}
+
+.video-container iframe,
+.video-container object,
+.video-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
